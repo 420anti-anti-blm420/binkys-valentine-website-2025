@@ -22,13 +22,13 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me, your magnificent Abs?",                                    // First interaction
+            text: "Do you like me, your magnificent Abs? 😜​😜​​",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
+            noBtn: "No (Dont even think about it)",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
         },
         second: {
-            text: "Oh, do you now? How much do you love me?",                          // For the love meter
+            text: "Oh, do you now? 👀​ How much do you love me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yaaayyy 🎉💝💖💝💓",
-        message: "Now excuse me as I brag about the baddie I bagged",
+        title: "LESSSSS GOOOOOOOOO 🤩​🤩​​😍​😍​",
+        message: "Now excuse me as I brag about the ABSOLUTE baddie I bagged",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
